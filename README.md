@@ -1,5 +1,6 @@
 # Easy-Bank
 Frontend Mentor Challenge
 
-Responsive Landing page using the Sass framework with Javascript
-live site url: https://easybankniko.netlify.app/
+Responsive Landing page using the Sass framework with Javascript.
+
+Live site url: https://easybankniko.netlify.app/
